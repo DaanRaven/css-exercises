@@ -1,0 +1,13 @@
+.yeet {
+    background-color: black;
+    color: white;
+}
+
+.defeat {
+    background-color: yellow;
+}
+
+.yeet .defeat {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}

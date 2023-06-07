@@ -1,0 +1,24 @@
+.yeet {
+    background-color: rgb(168, 3, 82);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#number_2 {
+    color: rgb(27, 27, 202);
+    font-size: 36px;
+}
+
+.yeet {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+  
+.adjust-font-size {
+font-size: 24px;
+}
+
+#number_2 {
+    color: rgb(68, 231, 60);
+    font-size: 24px;
+    font-weight: bold;
+}
